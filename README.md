@@ -12,7 +12,7 @@ Elle permet à un utilisateur authentifié de discuter avec un LLM (Google Gemin
 
 ## 🚀 Demo
 
-- **Application déployée** : ks-chat-vercel-nem2jslry-ghaith-taiebs-projects.vercel.app
+- **Application déployée** : https://ks-chat-vercel-nem2jslry-ghaith-taiebs-projects.vercel.app/
 - **Repository GitHub** : https://github.com/ghayyth-01/ks-chat
 
 ---
