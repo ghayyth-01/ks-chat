@@ -13,7 +13,7 @@ Elle permet à un utilisateur authentifié de discuter avec un LLM (Google Gemin
 ## 🚀 Demo
 
 - **Application déployée** : _à compléter (URL Vercel)_
-- **Repository GitHub** : _à compléter (URL du repo)_
+- **Repository GitHub** : https://github.com/ghayyth-01/ks-chat
 
 ---
 
